@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/bacground_film_search.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/bacground_fim_search.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/backgroun_login.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_info_account.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_input_account.xml" value="0.239" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_intro.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_intro_end.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_item_genre.xml" value="0.1525" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_item_genre_selected.xml" value="0.219" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_limit.xml" value="0.157" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_login.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_not_connect.xml" value="0.1735" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_search.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_text_first_char_name.xml" value="0.1415" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_text_login.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_videoview_logo.xml" value="0.1415" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/background_view_login.xml" value="0.1575" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/drawable/ic_wifi_off.xml" value="0.2315" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_full_screen_video.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_intro.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_search_acitivty.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/activity_watch_film.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/fragment_account.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_header_navigationview.xml" value="0.2359375" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_decribe_pic.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_describe_film.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_desrcibe_film.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_episode.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_film_in_all.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_film_search.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_genre.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_genre_in_watch_film.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_new_film.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_item_standard_film.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/layout/layout_not_connect_internet.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Admin/OneDrive/Desktop/CDTT2/OnFilm/app/src/main/res/menu/menu_navigation.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
